@@ -28,5 +28,6 @@ fn main() {
     	price = 2.00;
 	}
 	println!("the price is {}",price)
+	println!("the price is {:?}",price)
 	
 }
